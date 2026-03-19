@@ -182,6 +182,12 @@ plot_variable(
 | `warn_if_failed` | logical | `TRUE` | Warn if assumptions not met |
 
 ---
+<img width="804" height="688" alt="image" src="https://github.com/user-attachments/assets/332cbfc1-34b1-4cd0-a058-1f91f952c1cd" />
+<img width="804" height="688" alt="image" src="https://github.com/user-attachments/assets/ca1d4bff-b017-4a1c-88c8-55b5c35c6e81" />
+<img width="804" height="688" alt="image" src="https://github.com/user-attachments/assets/1179ada0-c31d-4b42-8c1d-cc770417355e" />
+<img width="804" height="688" alt="image" src="https://github.com/user-attachments/assets/bdadbc33-6cc6-445e-816f-7403b0890606" />
+
+
 
 ## 📝 Notes
 
