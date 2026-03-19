@@ -90,8 +90,8 @@ Then **run the entire script**. It will:
 
 ---
 <img width="993" height="495" alt="image" src="https://github.com/user-attachments/assets/a75f005f-9d5c-485c-8556-004ad0218e30" />
-<img width="1029" height="569" alt="image" src="https://github.com/user-attachments/assets/7d30e953-3e5b-4bde-9b3a-bc5aaa3d228c" />
-<img width="976" height="525" alt="image" src="https://github.com/user-attachments/assets/e619d201-783f-49af-b3c3-5bae07dc4e32" />
+<img width="993" height="495" alt="image" src="https://github.com/user-attachments/assets/7d30e953-3e5b-4bde-9b3a-bc5aaa3d228c" />
+<img width="993" height="495" alt="image" src="https://github.com/user-attachments/assets/e619d201-783f-49af-b3c3-5bae07dc4e32" />
 
 ### Step 3 — Read the assumptions summary
 
