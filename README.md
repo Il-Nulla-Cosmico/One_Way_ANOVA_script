@@ -5,7 +5,7 @@ A modular R pipeline for automated statistical analysis and scientific data visu
 
 ---
 
-## 📋 Overview
+##  Overview
 
 This pipeline is split into two independent scripts:
 
@@ -18,7 +18,7 @@ The two-script architecture means you only re-run the analysis when your data ch
 
 ---
 
-## ⚙️ Features
+##  Features
 
 - ✅ Automated assumption checking (Shapiro-Wilk, Bartlett, Levene)
 - ✅ Automated decision logic (standard ANOVA / Welch's ANOVA / warning)
@@ -33,7 +33,7 @@ The two-script architecture means you only re-run the analysis when your data ch
 
 ---
 
-## 📦 Required Packages
+##  Required Packages
 
 ```r
 install.packages(c("dplyr", "emmeans", "ggplot2", "car", "multcompView"))
@@ -41,7 +41,7 @@ install.packages(c("dplyr", "emmeans", "ggplot2", "car", "multcompView"))
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```
 project/
@@ -54,7 +54,7 @@ project/
 
 ---
 
-## 🚀 Workflow
+##  Workflow
 
 ### Step 1 — Prepare your data
 
@@ -150,7 +150,7 @@ plot_variable(
 
 ---
 
-## 🎨 `plot_variable()` Parameters
+##  `plot_variable()` Parameters
 
 | Parameter | Type | Default | Description |
 |---|---|---|---|
@@ -189,7 +189,7 @@ plot_variable(
 
 
 
-## 📝 Notes
+##  Notes
 
 - Significance letters are generated from `emmeans` Tukey p-values and are guaranteed to match the console output exactly.
 - Column names with underscores (e.g. `Peso_secco_foglie`) are automatically converted to clean labels (`Peso Secco Foglie`) on all plot axes and titles.
