@@ -1,4 +1,4 @@
-# 🌱 ANOVA Pipeline for Plant Science Data
+#  ANOVA Pipeline for Plant Science Data
 **Author:** Carmelo Cavallaro — *"Il_Nulla_Cosmico"* · *"Battle_Horse"*
 
 A modular R pipeline for automated statistical analysis and scientific data visualization of multi-response experimental datasets. Designed for plant science research, but applicable to any one-way ANOVA experimental design.
