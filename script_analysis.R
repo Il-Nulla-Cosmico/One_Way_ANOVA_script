@@ -6,7 +6,7 @@
 #   Runs all statistical tests for every response variable and saves all
 #   results into a single file: "analysis_results.RDS"
 #   This script produces NO plots.
-#   Open script_grafici.R for all plotting.
+#   Open script_graph.R for all plotting.
 #
 # WORKFLOW:
 #   1. Fill in STEP 0 with your dataset and variable names.
@@ -24,22 +24,12 @@ library(emmeans)
 library(car)
 library(multcompView)
 
-original_dataset   <- anova_effects_on_plant    # Name of the imported dataset
-factor_column_name <- "Factor_volume_water"     # Name of the X column (Groups/Treatments)
+original_dataset   <- ____________________   # Name of the imported dataset
+factor_column_name <- "_____"     # Name of the X column (Groups/Treatments)
 
 # List ALL your response variables (Y) here:
 measure_column_names <- c(
-  "Altezza_al_colletto",
-  "Diametro_fusto",
-  "Lunghezza_radice",
-  "Peso_Umido_TOT",
-  "Peso_umido_foglie",
-  "Peso_umido_fuso",
-  "Peso_umido_radice",
-  "Peso_secco_TOT",
-  "Peso_secco_foglie",
-  "Peso_secco_fusto",
-  "Peso_secco_radice"
+  "__________________ "
 )
 
 
